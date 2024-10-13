@@ -14,7 +14,9 @@ Postman
 ## Estructura del proyecto
 
 Controladores: Exponen los endpoints de la API REST.
+
 Servicios: Contienen la lógica de negocio, como la detección de mutantes.
+
 Repositorio: Interactúa con la base de datos utilizando JPA.
 
 ## Instalación
