@@ -4,11 +4,17 @@ Este proyecto consiste en una aplicación backend construida con Spring Boot, di
 
 ## Tecnologías Utilizadas
 Java 17
+
 Spring Boot
+
 Gradle
+
 JUnit
+
 JPA
+
 Docker
+
 Postman
 
 ## Estructura del proyecto
