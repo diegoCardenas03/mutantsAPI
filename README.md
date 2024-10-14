@@ -29,13 +29,19 @@ Repositorio: Interactúa con la base de datos utilizando JPA.
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    cd tu-repositorio
+    git clone https://github.com/diegoCardenas03/mutantsAPI.git
+    cd mutantsAPI
     ```
 
-2. Compila el proyecto:
-    ```sh
-    ./gradlew build
-    ```
+## Modo de Uso
+
+- POST /mutant: Verifica si un ADN pertenece a un mutante.
+
+  - URL: https://mutantsapi.onrender.com/mutant
+
+- GET /stats: Retorna las estadísticas de mutantes y humanos.
+
+  - URL: https://mutantsapi.onrender.com/stats
+
 
 
